@@ -33,4 +33,5 @@ build/
 .vscode/
 
 out/
+Main.java
 
